@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="app">
       <Header />
-      <RobotScene />
+      {/* <RobotScene /> */}
       <Hero />
       <Services />
       <ContactForm />
